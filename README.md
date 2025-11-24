@@ -27,7 +27,7 @@ Antes de comenzar, asegúrate de tener instalado:
 
 ```bash
 # Si tienes el proyecto en un repositorio
-git clone <url-del-repositorio>
+git clone https://github.com/Nipko/planetour-web.git
 
 # O simplemente navega a la carpeta del proyecto
 cd c:\Users\USER\Desktop\Pagina_planetour\planetour
